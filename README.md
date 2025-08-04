@@ -20,8 +20,8 @@ This project is intended to help understand basic trajectory following concepts 
 
 ## Video Demonstration
 
-A short video demonstrating the simulation can be found in the `video` folder or via the following link:
+A short video demonstrating the simulation can be found in the following link:
 
-[![Demo Video](video/thumbnail.png)](video/demo.mp4)
+[![Demo Video](https://img.youtube.com/vi/KYVdaKy0K7I/hqdefault.jpg)](https://youtu.be/KYVdaKy0K7I)
 
 ---
